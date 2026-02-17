@@ -59,7 +59,7 @@ It allows an administrator to register candidates and users to cast their votes 
 
 ## System Architecture
 
-**Frontend **
+**Frontend**
 
 * Built using React.js.
 * Connects to MetaMask for wallet authentication.
